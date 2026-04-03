@@ -1,1 +1,1 @@
-# SQL Server Management Studio 22
+This project involves performing extensive analysis on HR employee data to uncover insights and trends. The data contains information on employees across departments, including demographics, job roles, satisfaction, attrition and more.
